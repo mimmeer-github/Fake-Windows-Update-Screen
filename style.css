@@ -1,4 +1,9 @@
 /* global vars */
+@font-face {
+  font-family: segoeboot;
+  src: url(/src/font/segoe_slboot.ttf);
+}
+
 :root {
     --BGcolour: black;
     --TextColour: white;
@@ -31,7 +36,7 @@ h2{
 }
 
 .spinner{
-    font-family: Segoe Boot Semilight;
+    font-family: segoeboot;
     font-size: 50px;
     margin-bottom: 15px;
     mix-blend-mode: difference;
