@@ -30,8 +30,8 @@ body {
 h2{
     padding: 0;
     margin: 2px;
-    font-weight: 650;
-    font-size: 25px;
+    font-weight: 50;
+    font-size: 15px;
     mix-blend-mode: difference;
 }
 
